@@ -15,7 +15,7 @@ Add the package to your `composer.json` and run `composer update`.
 
     {
         "require": {
-            "polyerter/ftp": "~2.0"
+            "polyerter/ftp": "dev-master"
         }
     }
 
